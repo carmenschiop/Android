@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">carmen\'sApp</string>
+    <string name="quote">\"Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.\"</string>
+    <string name="author">A. Einstein</string>
+</resources>
